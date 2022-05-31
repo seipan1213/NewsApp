@@ -8,3 +8,6 @@ NEWS_API_KEY="XXXX"
 ```
 
 NewsAPI: https://newsapi.org/
+
+## 追記
+- NewsAPIは日本のニュースに弱く、あまり情報の質が良くなかった。
